@@ -11,6 +11,6 @@ Files :
 
 - PVoc.m : function used to perform voice speed changes and uses : TFCT & TFCT_Interp & TFCTInv.
 
-- files.png : images used to design the guide interface (Star Wars).
+- files.png / files.jpg : images used to design the guide interface (Star Wars).
 
 - files.wav / files.mp3 : audio files used to fedd the guide interface (Star Wars).
