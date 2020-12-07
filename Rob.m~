@@ -1,0 +1,8 @@
+function yrob = Rob(y,Fc,Fs)
+yrob=zeros(size(y));
+for t = 0:1/Fs:length(y)-1
+yrob(t) = y*exp(-2*1i*Fc*t);
+Re = real(yrob);
+end
+end
+
